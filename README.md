@@ -1,5 +1,8 @@
 # 🤖 Clash of Clans Donation Bot
 
+> ⚠️ **Disclaimer**: This project is intended for **educational purposes only**.
+> Do **not** use this bot in real Clash of Clans accounts — doing so may violate **Supercell’s Terms of Service** and could result in your account getting **banned**. The author is not responsible for any misuse of this tool.
+
 A Python automation script that donates troops in **Clash of Clans** using screen recognition with `OpenCV`, GUI automation with `PyAutoGUI`, and human-like interactions to reduce detection risk. This bot works by detecting request templates on screen and clicking the donation buttons intelligently.
 
 ---
